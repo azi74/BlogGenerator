@@ -1,4 +1,4 @@
 .env
 __pycache__/
 posts/
-*.pyc
+*.pyc.env
