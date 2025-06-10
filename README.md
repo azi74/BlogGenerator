@@ -15,5 +15,5 @@ A Flask application that generates SEO-optimized blog posts using OpenAI's API w
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ai-blog-generator-interview-YourName.git
-   cd ai-blog-generator-interview-YourName
+   cd directory
    ```
